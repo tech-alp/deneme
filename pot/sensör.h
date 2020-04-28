@@ -1,0 +1,1 @@
+//sıcaklık sensörü oluşturulacaktır.
