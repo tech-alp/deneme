@@ -30,7 +30,7 @@ public:
 	void get_Pil_Gerilim();
 	void get_Telemtry_Data();    //Increase Paket_No when take an each the telemtry data and all datas have to write in this class.
 	void set_Servo_Position();   //Adjust the servo motors because servo motor must look up the earth.
-	void write_Telemetry_Sd_Kart();
+	void write_Telemetri_Sd_Kart();
 
 };
 
