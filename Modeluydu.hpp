@@ -36,5 +36,5 @@ public:
 
 class MotorDriver: public ModelUydu
 {
-	//Coming soon, will come Pıd software 
+	//Coming soon, will come PID software 
 };
